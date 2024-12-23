@@ -72,7 +72,7 @@ header {
 }
 
 .header-container {
-    background-image: url('/images/baza.png');
+    background-image: url('baza2.png');
     display: flex;
     align-items: center;
     justify-content: space-between;
