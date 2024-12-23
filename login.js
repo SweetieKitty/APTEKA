@@ -14,7 +14,7 @@ loginButton.addEventListener('click', () => {
     backButton.style.display = 'flex';
 });
 document.getElementById('nextButton').addEventListener('click', function() {
-    window.location.href = '../sait.html'; 
+    window.location.href = 'sait.html'; 
 });
 registerButton.addEventListener('click', () => {
     loginForm.style.display = 'none';
@@ -38,6 +38,6 @@ document.getElementById('backButton').addEventListener('click', function() {
     
     
 document.getElementById('nextButton1').addEventListener('click', function() {
-    window.location.href = '../sait.html'; 
+    window.location.href = 'sait.html'; 
 });
 
